@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Basic Backend",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Suraj Kumar",
+  "license": "ISC"
+}
